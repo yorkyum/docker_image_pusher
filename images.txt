@@ -1,4 +1,4 @@
 #支持私库
 
-apache/airflow:2.10.5
-apache/superset-cache:3.10-slim-bookworm
+haproxy:latest
+zalando/patroni:latest
